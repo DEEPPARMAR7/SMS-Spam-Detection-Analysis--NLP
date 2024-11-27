@@ -1,6 +1,5 @@
 # SMS Spam Detection Analysis- NLP
 
-Git Hub:
 
 # Information
 
@@ -13,7 +12,7 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 - SMS Messages
 - Label (spam/ham)
 
-
+Download link: https://www.kaggle.com/datasets/deepsparmar/sms-spam-collection
 
 # Libraries
 
@@ -30,3 +29,4 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 <li>SVC
 <li>Random Forest
   
+Best Model Accuracy: 98.27
